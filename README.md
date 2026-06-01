@@ -1,21 +1,7 @@
 # Hi, I'm Bardia 👋
 
-I'm interested in Web3, Linux, Python, and AI-powered development.
+Curious about how things work.
 
-Most of my time is spent exploring blockchain ecosystems, testing new tools, learning how systems work, and building projects with the help of AI.
+Interested in Linux, cloud infrastructure, Python, AI, and decentralized technologies.
 
-### Things I enjoy working on
-
-* Web3 and blockchain research
-* Python projects and automation
-* Linux systems
-* Virtual machines and lab environments
-* AI-assisted app and website development
-
-### Currently
-
-* Expanding my knowledge of Web3 infrastructure
-* Building and documenting personal projects
-* Learning more about automation and open-source tools
-
-Always curious, always learning.
+Sharing projects, experiments, and things I'm learning.
