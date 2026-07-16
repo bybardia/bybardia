@@ -16,16 +16,11 @@
 
 I learn by pulling systems apart, understanding the layers, and building something better from what I find.
 
-```yaml
-name: Bardia
-role: Systems builder & open-source explorer
-focus:
-  - Trustworthy AI agents
-  - Linux and virtualized environments
-  - AI-assisted product development
-  - Decentralized applications
-principle: "Useful systems > impressive demos"
-```
+<div align="center">
+
+<img src="./terminal.svg" width="100%" alt="Bardia system profile terminal" />
+
+</div>
 
 - 🐍 I use **Python** to automate, prototype, and build intelligent systems.
 - 🐧 I am comfortable working in **Linux environments** and at the system layer.
@@ -55,7 +50,7 @@ A multi-agent pipeline that grounds replies in policy, evaluates its own output,
 
 **Real-time money streaming**
 
-An onchain application for streaming payments per second — designed for salaries, subscriptions, and token vesting on Stellar Soroban.
+An onchain application for streaming payments per second — designed for salaries, subscriptions, and vesting on Stellar Soroban.
 
 `TypeScript` `Next.js` `Stellar` `Soroban`
 
@@ -91,17 +86,35 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Virtualization](https://img.shields.io/badge/Virtualization-0D1117?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white)
+### `CORE SYSTEMS`
 
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=39D98A)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=7D00FF)
+<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu&theme=dark" alt="Linux and systems stack" />
+
+<br /><br />
+
+### `BUILD TOOLKIT`
+
+<img src="https://skillicons.dev/icons?i=python,ts,rust,react,nextjs,git&theme=dark&perline=6" alt="Bardia's development toolkit" />
+
+<br /><br />
+
+### `INTELLIGENCE LAYER`
+
+![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=39D98A)
+![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
+
+<br /><br />
+
+### `INFRA & FRONTIER`
+
+![Virtualization](https://img.shields.io/badge/Virtualization-111827?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
+![Stellar](https://img.shields.io/badge/Stellar-111827?style=for-the-badge&logo=stellar&logoColor=7D00FF)
+![Soroban](https://img.shields.io/badge/Soroban-111827?style=for-the-badge&logo=stellar&logoColor=39D98A)
+
+<br />
+
+<sub>systems · intelligence · products · onchain</sub>
 
 </div>
 
@@ -109,13 +122,11 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 <div align="center">
 
-<div align="center">
-
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bybardia&theme=github_dark" alt="Bardia's GitHub stats" />
+
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bybardia&theme=github_dark" alt="Bardia's top languages" />
 
-
-</div>
+<br /><br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
