@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Bardia — Systems Builder" />
+<img src="./header.svg" width="100%" alt="Bardia — Systems Builder" />
 
 <br />
 
