@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+trustworthy+AI+agents;Exploring+Linux+and+virtualized+systems;Turning+ideas+into+working+products;Shipping+onchain+experiments+in+public)](https://git.io/typing-svg)
 
 [![X](https://img.shields.io/badge/@bybardiia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bybardiia)
-[![Linktree](https://img.shields.io/badge/0xkivaro-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xkivaro)
+[![Linktree](https://img.shields.io/badge/bybardia-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/bybardia)
 [![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/bybardia)
 
 </div>
