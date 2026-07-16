@@ -1,61 +1,57 @@
 <div align="center">
 
-<img src="./header.svg" width="100%" alt="Bardia — Systems Builder" />
+<img src="./assets/hero.svg" width="100%" alt="Bardia — Build, Break, Learn, Repeat" />
 
 <br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+trustworthy+AI+agents;Exploring+Linux+and+virtualized+systems;Turning+ideas+into+working+products;Shipping+onchain+experiments+in+public)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=700&color=A78BFA&center=true&vCenter=true&width=760&lines=Initializing+trustworthy+AI+systems...;Booting+Linux+and+virtualized+environments...;Compiling+onchain+experiments...;Shipping+useful+products+in+public.)](https://git.io/typing-svg)
 
-[![X](https://img.shields.io/badge/@bybardiia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bybardiia)
-[![Linktree](https://img.shields.io/badge/0xkivaro-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xkivaro)
-[![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/bybardia)
+[![X](https://img.shields.io/badge/X-@bybardiia-090714?style=flat-square&logo=x&logoColor=white)](https://x.com/bybardiia)
+[![Linktree](https://img.shields.io/badge/links-0xkivaro-090714?style=flat-square&logo=linktree&logoColor=5EEAD4)](https://linktr.ee/0xkivaro)
+[![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=flat-square&color=7c3aed&label=visitors)](https://github.com/bybardia)
 
 </div>
 
-## `01 // About`
-
-I learn by pulling systems apart, understanding the layers, and building something better from what I find.
+## `>_ SYSTEM_PROFILE`
 
 ```yaml
-name: Bardia
-role: Systems builder & open-source explorer
-focus:
-  - Trustworthy AI agents
-  - Linux and virtualized environments
-  - AI-assisted product development
-  - Decentralized applications
-principle: "Useful systems > impressive demos"
+operator: Bardia
+class: systems_builder
+mission: turn complex ideas into useful, working products
+
+capabilities:
+  systems:       [Linux, Virtualization, Isolated Environments]
+  development:   [Python, TypeScript, Rust]
+  intelligence:  [AI Agents, Structured Outputs, Tool Integration, MCP]
+  frontier:      [Stellar, Soroban, Decentralized Applications]
+
+operating_mode: build → test → learn → ship
 ```
 
-- 🐍 I use **Python** to automate, prototype, and build intelligent systems.
-- 🐧 I am comfortable working in **Linux environments** and at the system layer.
-- 🖥️ I work with **virtual machines, virtualization, and isolated environments**.
-- 🤖 I build with **AI models, agents, structured outputs, and tool integrations**.
-- ⚡ I use AI-assisted workflows to move rapidly from an idea to a working product.
-- 🌐 I experiment with **smart contracts and decentralized applications**.
+I work across the layers between **infrastructure**, **intelligent software**, and **product engineering**. I use AI-assisted development to accelerate exploration without giving up clarity, control, or engineering judgment.
 
-## `02 // Selected builds`
+## `>_ ACTIVE_MISSIONS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [Aegis](https://github.com/bybardia/aegis-support-agent)
+### `01` 🛡️ [AEGIS](https://github.com/bybardia/aegis-support-agent)
 
-**Trust-gated AI support agent**
+**Trust-gated AI support system**
 
-A multi-agent pipeline that grounds replies in policy, evaluates its own output, reflects when confidence is low, and deterministically escalates risky cases.
+A multi-agent pipeline with policy grounding, structured evaluation, reflection, and deterministic human escalation for high-risk requests.
 
 `Python` `Gemini` `MCP` `Pydantic`
 
 </td>
 <td width="50%" valign="top">
 
-### 🌊 [Aqua](https://github.com/bybardia/aqua-money-streaming)
+### `02` 🌊 [AQUA](https://github.com/bybardia/aqua-money-streaming)
 
 **Real-time money streaming**
 
-An onchain application for streaming payments per second — designed for salaries, subscriptions, and token vesting on Stellar Soroban.
+An onchain product for streaming payments per second — built for salaries, subscriptions, and vesting on Stellar Soroban.
 
 `TypeScript` `Next.js` `Stellar` `Soroban`
 
@@ -64,7 +60,7 @@ An onchain application for streaming payments per second — designed for salari
 <tr>
 <td width="50%" valign="top">
 
-### 📊 [Stellar Live Poll](https://github.com/bybardia/stellar-live-poll)
+### `03` 📊 [LIVE POLL](https://github.com/bybardia/stellar-live-poll)
 
 **Real-time onchain polling**
 
@@ -75,11 +71,11 @@ A multi-wallet polling experience backed by a Soroban smart contract on Stellar 
 </td>
 <td width="50%" valign="top">
 
-### 💸 [Stellar Payment dApp](https://github.com/bybardia/stellar-next-payment-dapp)
+### `04` 💸 [PAYMENT dAPP](https://github.com/bybardia/stellar-next-payment-dapp)
 
 **Simple testnet payments**
 
-A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
+A clean payment flow using Freighter Wallet, Next.js, and the Stellar SDK.
 
 `TypeScript` `Next.js` `Stellar SDK`
 
@@ -87,41 +83,32 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 </tr>
 </table>
 
-## `03 // Stack`
+## `>_ TOOLCHAIN`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Virtualization](https://img.shields.io/badge/Virtualization-0D1117?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-11112A?style=for-the-badge&logo=python&logoColor=5EEAD4)
+![Linux](https://img.shields.io/badge/LINUX-11112A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Virtualization](https://img.shields.io/badge/VIRTUALIZATION-11112A?style=for-the-badge&logo=virtualbox&logoColor=A78BFA)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-11112A?style=for-the-badge&logo=typescript&logoColor=60A5FA)
+![Rust](https://img.shields.io/badge/RUST-11112A?style=for-the-badge&logo=rust&logoColor=F8FAFC)
 
-![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![AI Agents](https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=39D98A)
-![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=7D00FF)
+![Gemini](https://img.shields.io/badge/GEMINI-090714?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
+![AI Agents](https://img.shields.io/badge/AI_AGENTS-090714?style=for-the-badge&logo=probot&logoColor=5EEAD4)
+![MCP](https://img.shields.io/badge/MCP-090714?style=for-the-badge&logo=anthropic&logoColor=F8FAFC)
+![Next.js](https://img.shields.io/badge/NEXT.JS-090714?style=for-the-badge&logo=nextdotjs&logoColor=F8FAFC)
+![Stellar](https://img.shields.io/badge/STELLAR-090714?style=for-the-badge&logo=stellar&logoColor=A78BFA)
 
 </div>
 
-## `04 // Signal`
+## `>_ TELEMETRY`
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=b1bac4&icon_color=39d98a&rank_icon=github" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&icon_color=1a7f37&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true" alt="Bardia's GitHub stats" />
-</picture>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bybardia&theme=github_dark" alt="Bardia's GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bybardia&theme=github_dark" alt="Bardia's top languages" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=b1bac4&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&langs_count=6" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true" alt="Bardia's most-used languages" />
-</picture>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bybardia&bg_color=0d1117&color=8b949e&line=58a6ff&point=39d98a&area=true&hide_border=true" alt="Bardia's contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bybardia&bg_color=090714&color=8b8aa7&line=a78bfa&point=5eead4&area=true&hide_border=true&custom_title=PUBLIC%20BUILD%20SIGNAL" alt="Bardia's live contribution graph" />
 
 </div>
 
@@ -130,9 +117,9 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 <div align="center">
 
 ```text
-[ STATUS: BUILDING ]  [ MODE: CURIOUS ]  [ NEXT: SHIP IT ]
+● SYSTEM ONLINE     ◇ CURIOSITY: HIGH     ↗ NEXT ACTION: SHIP
 ```
 
-**Learning how systems work — then building better ones.**
+**The goal is not to look busy. The goal is to build something useful.**
 
 </div>
