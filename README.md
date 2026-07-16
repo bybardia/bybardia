@@ -115,7 +115,7 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 <br /><br />
 
-<img width="95%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Bardia's animated 3D contribution graph" />
+<img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Bardia's 3D contribution graph" />
 
 <br />
 
