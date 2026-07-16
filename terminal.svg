@@ -27,13 +27,13 @@
   <text x="305" y="263" fill="#e6edf3" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">cat focus.txt</text>
 
   <text x="52" y="301" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">›</text>
-  <text x="82" y="301" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Trustworthy AI Agents</text>
+  <text x="82" y="301" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">AI agents that take real actions</text>
   <text x="52" y="332" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">›</text>
-  <text x="82" y="332" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Linux &amp; Virtualized Environments</text>
+  <text x="82" y="332" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Python backends, automation &amp; AI</text>
   <text x="500" y="301" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">›</text>
-  <text x="530" y="301" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">AI-Assisted Development</text>
+  <text x="530" y="301" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Decentralized apps on Stellar &amp; Soroban</text>
   <text x="500" y="332" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">›</text>
-  <text x="530" y="332" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Decentralized Applications</text>
+  <text x="530" y="332" fill="#c9d1d9" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17">Linux &amp; virtualized environments</text>
 
   <text x="52" y="378" fill="#39d98a" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="18">bardia@github:~/profile$</text>
   <rect x="305" y="362" width="10" height="21" fill="#e6edf3" opacity=".9"/>
