@@ -17,21 +17,14 @@
 I learn by pulling systems apart, understanding the layers, and building something better from what I find.
 
 ```yaml
-┌──(bardia㉿github)-[~/profile]
-└─$ whoami
-  Name       : Bardia
-  Role       : Systems Builder & Open-Source Explorer
-  Status     : Building in public
-┌──(bardia㉿github)-[~/focus]
-└─$ cat focus.txt
-  Trustworthy AI Agents
-  Linux & Virtualized Environments
-  AI-Assisted Product Development
-  Decentralized Applications
-┌──(bardia㉿github)-[~/principles]
-└─$ echo $PRINCIPLE
-  "Useful systems > impressive demos"
-
+name: Bardia
+role: Systems builder & open-source explorer
+focus:
+  - Trustworthy AI agents
+  - Linux and virtualized environments
+  - AI-assisted product development
+  - Decentralized applications
+principle: "Useful systems > impressive demos"
 ```
 
 - 🐍 I use **Python** to automate, prototype, and build intelligent systems.
