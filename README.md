@@ -1,39 +1,40 @@
 <div align="center">
 
-# Hey, I'm Bardia 👋
+<img src="./assets/header.svg" width="100%" alt="Bardia — Systems Builder" />
 
-### I explore how systems work — then turn ideas into working software.
+<br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=680&lines=Python+%E2%80%A2+Linux+%E2%80%A2+Virtualization;AI-assisted+development+%E2%80%A2+Agentic+systems;Building+trustworthy+AI+and+onchain+products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+trustworthy+AI+agents;Exploring+Linux+and+virtualized+systems;Turning+ideas+into+working+products;Shipping+onchain+experiments+in+public)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-@bybardia-181717?style=for-the-badge&logo=github)](https://github.com/bybardia)
-[![X](https://img.shields.io/badge/X-@bybardiia-000000?style=for-the-badge&logo=x)](https://x.com/bybardiia)
-[![Links](https://img.shields.io/badge/Links-0xkivaro-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/0xkivaro)
+[![X](https://img.shields.io/badge/@bybardiia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bybardiia)
+[![Linktree](https://img.shields.io/badge/0xkivaro-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/0xkivaro)
+[![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/bybardia)
 
 </div>
 
----
+## `01 // About`
 
-## About me
+I learn by pulling systems apart, understanding the layers, and building something better from what I find.
 
-I'm a curious builder interested in the layers between **infrastructure**, **intelligent systems**, and **real-world products**.
-
-- 🐍 Building tools and prototypes with **Python**
-- 🐧 Comfortable working in **Linux environments**
-- 🖥️ Exploring **virtualization, virtual machines, and isolated environments**
-- 🤖 Building with **AI models, agents, structured outputs, and tool integrations**
-- ⚡ Using AI-assisted workflows to move quickly from an idea to a working product
-- 🌐 Experimenting with **decentralized applications and smart contracts**
-
-```text
-$ whoami
-builder / systems learner / open-source explorer
-
-$ current_focus
-trustworthy AI agents + onchain applications
+```yaml
+name: Bardia
+role: Systems builder & open-source explorer
+focus:
+  - Trustworthy AI agents
+  - Linux and virtualized environments
+  - AI-assisted product development
+  - Decentralized applications
+principle: "Useful systems > impressive demos"
 ```
 
-## Featured projects
+- 🐍 I use **Python** to automate, prototype, and build intelligent systems.
+- 🐧 I am comfortable working in **Linux environments** and at the system layer.
+- 🖥️ I work with **virtual machines, virtualization, and isolated environments**.
+- 🤖 I build with **AI models, agents, structured outputs, and tool integrations**.
+- ⚡ I use AI-assisted workflows to move rapidly from an idea to a working product.
+- 🌐 I experiment with **smart contracts and decentralized applications**.
+
+## `02 // Selected builds`
 
 <table>
 <tr>
@@ -41,7 +42,9 @@ trustworthy AI agents + onchain applications
 
 ### 🛡️ [Aegis](https://github.com/bybardia/aegis-support-agent)
 
-A trust-gated, multi-agent customer support system with policy grounding, evaluation, reflection, and deterministic human escalation.
+**Trust-gated AI support agent**
+
+A multi-agent pipeline that grounds replies in policy, evaluates its own output, reflects when confidence is low, and deterministically escalates risky cases.
 
 `Python` `Gemini` `MCP` `Pydantic`
 
@@ -50,7 +53,9 @@ A trust-gated, multi-agent customer support system with policy grounding, evalua
 
 ### 🌊 [Aqua](https://github.com/bybardia/aqua-money-streaming)
 
-Real-time money streaming on Stellar for salaries, subscriptions, and vesting — settled per second with Soroban.
+**Real-time money streaming**
+
+An onchain application for streaming payments per second — designed for salaries, subscriptions, and token vesting on Stellar Soroban.
 
 `TypeScript` `Next.js` `Stellar` `Soroban`
 
@@ -61,7 +66,9 @@ Real-time money streaming on Stellar for salaries, subscriptions, and vesting �
 
 ### 📊 [Stellar Live Poll](https://github.com/bybardia/stellar-live-poll)
 
-Real-time polling on Stellar Testnet with a Soroban smart contract and multi-wallet frontend.
+**Real-time onchain polling**
+
+A multi-wallet polling experience backed by a Soroban smart contract on Stellar Testnet.
 
 `Rust` `Soroban` `Next.js`
 
@@ -70,7 +77,9 @@ Real-time polling on Stellar Testnet with a Soroban smart contract and multi-wal
 
 ### 💸 [Stellar Payment dApp](https://github.com/bybardia/stellar-next-payment-dapp)
 
-A simple Stellar Testnet payment experience using Freighter Wallet and the Stellar SDK.
+**Simple testnet payments**
+
+A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 `TypeScript` `Next.js` `Stellar SDK`
 
@@ -78,36 +87,41 @@ A simple Stellar Testnet payment experience using Freighter Wallet and the Stell
 </tr>
 </table>
 
-## Things I work with
+## `03 // Stack`
 
 <div align="center">
 
-### Languages & systems
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Virtualization](https://img.shields.io/badge/Virtualization-0D1117?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Virtualization](https://img.shields.io/badge/Virtualization-4B5563?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-### AI & product building
-
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=58A6FF)
-![MCP](https://img.shields.io/badge/MCP-1F6FEB?style=for-the-badge&logo=protocols.io&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=stellar&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![AI Agents](https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=39D98A)
+![MCP](https://img.shields.io/badge/MCP-0D1117?style=for-the-badge&logo=anthropic&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Stellar](https://img.shields.io/badge/Stellar-0D1117?style=for-the-badge&logo=stellar&logoColor=7D00FF)
 
 </div>
 
-## GitHub activity
+## `04 // Signal`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="Bardia's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Bardia's most-used languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=b1bac4&icon_color=39d98a&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&icon_color=1a7f37&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bybardia&show_icons=true&hide_border=true" alt="Bardia's GitHub stats" />
+</picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bybardia&theme=github-compact&hide_border=true&area=true" alt="Bardia's contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=b1bac4&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true&bg_color=ffffff&title_color=0969da&text_color=57606a&langs_count=6" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bybardia&layout=compact&hide_border=true" alt="Bardia's most-used languages" />
+</picture>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=bybardia&bg_color=0d1117&color=8b949e&line=58a6ff&point=39d98a&area=true&hide_border=true" alt="Bardia's contribution graph" />
 
 </div>
 
@@ -115,6 +129,10 @@ A simple Stellar Testnet payment experience using Freighter Wallet and the Stell
 
 <div align="center">
 
-### Always learning how systems work — then building better ones.
+```text
+[ STATUS: BUILDING ]  [ MODE: CURIOUS ]  [ NEXT: SHIP IT ]
+```
+
+**Learning how systems work — then building better ones.**
 
 </div>
