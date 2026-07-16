@@ -1,25 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">Bardia — Systems Builder</title>
-  <desc id="desc">A dark terminal-inspired banner for Bardia's GitHub profile</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset="0.52" stop-color="#0d1726"/><stop offset="1" stop-color="#07131a"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#39d98a"/></linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7d8590" stroke-opacity="0.08"/></pattern>
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-  </defs>
-  <rect x="1" y="1" width="1198" height="338" rx="22" fill="url(#bg)" stroke="#30363d" stroke-width="2"/>
-  <rect x="1" y="1" width="1198" height="338" rx="22" fill="url(#grid)"/>
-  <circle cx="38" cy="30" r="6" fill="#ff5f57"/><circle cx="60" cy="30" r="6" fill="#febc2e"/><circle cx="82" cy="30" r="6" fill="#28c840"/>
-  <text x="600" y="35" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" text-anchor="middle">bardia@github: ~/profile</text>
-  <path d="M0 58H1200" stroke="#30363d"/>
-  <text x="72" y="112" fill="#39d98a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ whoami</text>
-  <text x="72" y="184" fill="#f0f6fc" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="64" font-weight="750" letter-spacing="2">BARDIA</text>
-  <rect x="72" y="206" width="505" height="5" rx="2.5" fill="url(#accent)" filter="url(#glow)"/>
-  <text x="72" y="250" fill="#b1bac4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22">SYSTEMS BUILDER  //  OPEN-SOURCE EXPLORER</text>
-  <text x="72" y="292" fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17">python · linux · virtualization · ai agents · onchain</text>
-  <g transform="translate(905 126)">
-    <circle cx="92" cy="45" r="92" fill="#58a6ff" opacity="0.05"/><circle cx="92" cy="45" r="68" fill="none" stroke="#58a6ff" stroke-opacity="0.22"/><circle cx="92" cy="45" r="43" fill="none" stroke="#39d98a" stroke-opacity="0.40" stroke-dasharray="8 8"/>
-    <path d="M38 45h108M92-9v108" stroke="#58a6ff" stroke-opacity="0.28"/>
-    <circle cx="92" cy="45" r="10" fill="#39d98a" filter="url(#glow)"/><circle cx="38" cy="45" r="5" fill="#58a6ff"/><circle cx="146" cy="45" r="5" fill="#58a6ff"/><circle cx="92" cy="-9" r="5" fill="#39d98a"/><circle cx="92" cy="99" r="5" fill="#39d98a"/>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Bardia — Build, Break, Learn, Repeat</title>
+<desc id="desc">A futuristic mission-control banner for Bardia's GitHub profile</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090714"/><stop offset=".52" stop-color="#11112a"/><stop offset="1" stop-color="#07141d"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <radialGradient id="orb"><stop stop-color="#5eead4" stop-opacity=".55"/><stop offset="1" stop-color="#5eead4" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c4b5fd" opacity=".12"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="380" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="26" fill="url(#dots)"/>
+<path d="M0 64H1200M790 64V380" stroke="#c4b5fd" stroke-opacity=".13"/>
+<text x="44" y="40" fill="#8b8aa7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">MISSION CONTROL / PUBLIC BUILD LOG</text>
+<circle cx="1122" cy="32" r="5" fill="#5eead4" filter="url(#glow)"/><text x="1140" y="38" fill="#5eead4" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">ONLINE</text>
+<text x="58" y="126" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">OPERATOR_01</text>
+<text x="58" y="213" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="4">BARDIA</text>
+<rect x="58" y="235" width="620" height="5" rx="3" fill="url(#neon)" filter="url(#glow)"/>
+<text x="58" y="284" fill="#d5d3e8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="22">BUILD  /  BREAK  /  LEARN  /  REPEAT</text>
+<text x="58" y="328" fill="#8b8aa7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="16">AI SYSTEMS · LINUX · VIRTUALIZATION · ONCHAIN</text>
+<g transform="translate(850 108)">
+  <circle cx="115" cy="90" r="128" fill="url(#orb)" opacity=".25"/>
+  <circle cx="115" cy="90" r="92" fill="none" stroke="#a78bfa" stroke-opacity=".35"/>
+  <circle cx="115" cy="90" r="68" fill="none" stroke="#5eead4" stroke-opacity=".55" stroke-dasharray="2 10"/>
+  <circle cx="115" cy="90" r="42" fill="none" stroke="#60a5fa" stroke-opacity=".5"/>
+  <path d="M23 90h184M115-2v184" stroke="#c4b5fd" stroke-opacity=".18"/>
+  <path d="M63 38l104 104M167 38L63 142" stroke="#c4b5fd" stroke-opacity=".12"/>
+  <circle cx="115" cy="90" r="13" fill="#5eead4" filter="url(#glow)"/>
+  <circle cx="115" cy="-2" r="5" fill="#a78bfa"/><circle cx="207" cy="90" r="5" fill="#60a5fa"/><circle cx="115" cy="182" r="5" fill="#5eead4"/>
+</g>
 </svg>
