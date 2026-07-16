@@ -137,20 +137,9 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 <div align="center">
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bybardia&theme=github_dark" alt="Bardia's GitHub stats" />
-
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bybardia&theme=github_dark" alt="Bardia's top languages" />
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Bardia's 3D contribution graph" />
-</picture>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 
 </div>
-
 ---
 
 <div align="center">
