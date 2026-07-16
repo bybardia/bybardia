@@ -1,4 +1,4 @@
-<img width="884" height="198" alt="image" src="https://github.com/user-attachments/assets/a74b41e9-5e6d-4228-a508-4576bb8ffcc4" /><div align="center">
+<div align="center">
 
 <img src="./header.svg" width="100%" alt="Bardia — Systems Builder" />
 
