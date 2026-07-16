@@ -109,20 +109,17 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 
 <div align="center">
 
-<div align="center">
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bybardia&theme=github_dark" alt="Bardia's live GitHub stats" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bybardia&theme=github_dark" alt="Bardia's GitHub stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bybardia&theme=github_dark" alt="Bardia's top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bybardia&theme=github_dark" alt="Bardia's live top languages" />
 
+<br /><br />
 
+<img width="95%" src="./profile-3d-contrib/profile-green-animate.svg" alt="Bardia's animated 3D contribution graph" />
 
-</div>
+<br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img width="95%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Bardia's 3D contribution graph" />
-</picture>
+<sub>Automatically updated from GitHub activity</sub>
 
 </div>
 
