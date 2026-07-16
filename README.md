@@ -82,41 +82,56 @@ A clean payment flow built with Freighter Wallet, Next.js, and the Stellar SDK.
 </tr>
 </table>
 
-## `03 // Stack`
+## 03 // Stack
 
-<div align="center">
-
-### `CORE SYSTEMS`
-
-<img src="https://skillicons.dev/icons?i=linux,bash,ubuntu&theme=dark" alt="Linux and systems stack" />
-
-<br /><br />
-
-### `BUILD TOOLKIT`
-
-<img src="https://skillicons.dev/icons?i=python,ts,rust,react,nextjs,git&theme=dark&perline=6" alt="Bardia's development toolkit" />
-
-<br /><br />
-
-### `INTELLIGENCE LAYER`
-
-![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=A78BFA)
-![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=39D98A)
-![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=FFFFFF)
-
-<br /><br />
-
-### `INFRA & FRONTIER`
-
-![Virtualization](https://img.shields.io/badge/Virtualization-111827?style=for-the-badge&logo=virtualbox&logoColor=58A6FF)
-![Stellar](https://img.shields.io/badge/Stellar-111827?style=for-the-badge&logo=stellar&logoColor=7D00FF)
-![Soroban](https://img.shields.io/badge/Soroban-111827?style=for-the-badge&logo=stellar&logoColor=39D98A)
-
-<br />
-
-<sub>systems · intelligence · products · onchain</sub>
-
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <sub><b>SYSTEMS &amp; TOOLS</b></sub>
+      <br><br>
+      <table>
+        <tr>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="56" /><br><sub>Linux</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="56" /><br><sub>Bash</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="56" /><br><sub>Docker</sub></td>
+        </tr>
+        <tr>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="56" /><br><sub>Git</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="56" /><br><sub>GitHub</sub></td>
+          <td align="center" width="90"></td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" valign="top">
+      <sub><b>LANGUAGES &amp; FRAMEWORKS</b></sub>
+      <br><br>
+      <table>
+        <tr>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="56" /><br><sub>Python</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="56" /><br><sub>TypeScript</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=rust&theme=dark" width="56" /><br><sub>Rust</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="56" /><br><sub>Next.js</sub></td>
+        </tr>
+        <tr>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="56" /><br><sub>Java</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="56" /><br><sub>HTML</sub></td>
+          <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="56" /><br><sub>CSS</sub></td>
+          <td align="center" width="90"></td>
+        </tr>
+      </table>
+    </td>
+    <td align="center" valign="top">
+      <sub><b>ONCHAIN</b></sub>
+      <br><br>
+      <table>
+        <tr>
+          <td align="center" width="90"><img src="https://cdn.simpleicons.org/stellar/white" width="50" /><br><sub>Stellar</sub></td>
+          <td align="center" width="90"><img src="./soroban.svg" width="50" /><br><sub>Soroban</sub></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## `04 // Signal`
 
