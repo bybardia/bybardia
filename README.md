@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-@bybardia-181717?style=for-the-badge&logo=github)](https://github.com/bybardia)
 [![X](https://img.shields.io/badge/X-@bybardiia-000000?style=for-the-badge&logo=x)](https://x.com/bybardiia)
-[![Links](https://img.shields.io/badge/Links-0xkivaro-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/0xkivaro)
+[![Links](https://img.shields.io/badge/Links-bybardia-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/bybardia)
 
 </div>
 
