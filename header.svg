@@ -12,7 +12,7 @@
 <rect width="1200" height="380" rx="26" fill="url(#dots)"/>
 <path d="M0 64H1200M790 64V380" stroke="#c4b5fd" stroke-opacity=".13"/>
 <text x="44" y="40" fill="#8b8aa7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">MISSION CONTROL / PUBLIC BUILD LOG</text>
-<circle cx="1122" cy="32" r="5" fill="#5eead4" filter="url(#glow)"/><text x="1140" y="38" fill="#5eead4" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">ONLINE</text>
+<circle cx="1122" cy="32" r="5" fill="#5eead4" filter="url(#glow)"><animate attributeName="opacity" values="1;.3;1" dur="1.8s" repeatCount="indefinite"/></circle><text x="1140" y="38" fill="#5eead4" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">ONLINE</text>
 <text x="58" y="126" fill="#a78bfa" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="18">OPERATOR_01</text>
 <text x="58" y="213" fill="#f8fafc" font-family="Inter,Arial,sans-serif" font-size="82" font-weight="800" letter-spacing="4">BARDIA</text>
 <rect x="58" y="235" width="620" height="5" rx="3" fill="url(#neon)" filter="url(#glow)"/>
@@ -21,11 +21,18 @@
 <g transform="translate(850 108)">
   <circle cx="115" cy="90" r="128" fill="url(#orb)" opacity=".25"/>
   <circle cx="115" cy="90" r="92" fill="none" stroke="#a78bfa" stroke-opacity=".35"/>
-  <circle cx="115" cy="90" r="68" fill="none" stroke="#5eead4" stroke-opacity=".55" stroke-dasharray="2 10"/>
+  <circle cx="115" cy="90" r="68" fill="none" stroke="#5eead4" stroke-opacity=".55" stroke-dasharray="2 10"><animateTransform attributeName="transform" type="rotate" from="360 115 90" to="0 115 90" dur="22s" repeatCount="indefinite"/></circle>
   <circle cx="115" cy="90" r="42" fill="none" stroke="#60a5fa" stroke-opacity=".5"/>
   <path d="M23 90h184M115-2v184" stroke="#c4b5fd" stroke-opacity=".18"/>
   <path d="M63 38l104 104M167 38L63 142" stroke="#c4b5fd" stroke-opacity=".12"/>
-  <circle cx="115" cy="90" r="13" fill="#5eead4" filter="url(#glow)"/>
-  <circle cx="115" cy="-2" r="5" fill="#a78bfa"/><circle cx="207" cy="90" r="5" fill="#60a5fa"/><circle cx="115" cy="182" r="5" fill="#5eead4"/>
+  <g>
+    <line x1="115" y1="90" x2="115" y2="-2" stroke="#5eead4" stroke-width="2" stroke-opacity=".75" stroke-linecap="round" filter="url(#glow)"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 115 90" to="360 115 90" dur="6s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="115" cy="90" r="13" fill="#5eead4" filter="url(#glow)"><animate attributeName="r" values="13;16.5;13" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;.7;1" dur="2.4s" repeatCount="indefinite"/></circle>
+  <g>
+    <circle cx="115" cy="-2" r="5" fill="#a78bfa"/><circle cx="207" cy="90" r="5" fill="#60a5fa"/><circle cx="115" cy="182" r="5" fill="#5eead4"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 115 90" to="360 115 90" dur="18s" repeatCount="indefinite"/>
+  </g>
 </g>
 </svg>
