@@ -6,9 +6,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+trustworthy+AI+agents;Exploring+Linux+and+virtualized+systems;Turning+ideas+into+working+products;Shipping+onchain+experiments+in+public)](https://git.io/typing-svg)
 
-[![X](https://img.shields.io/badge/@bybardiia-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/bybardiia)
-[![Linktree](https://img.shields.io/badge/bybardia-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/bybardia)
-[![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=flat-square&color=1f6feb&label=profile+views)](https://github.com/bybardia)
+[![X](https://img.shields.io/badge/@bybardiia-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bybardiia)
+[![Linktree](https://img.shields.io/badge/Linktree-5EEAD4?style=for-the-badge&logo=linktree&logoColor=0D1117)](https://linktr.ee/bybardia)
+[![Followers](https://img.shields.io/github/followers/bybardia?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&labelColor=0D1117&color=A78BFA)](https://github.com/bybardia?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=bybardia&style=for-the-badge&label=PROFILE+VIEWS&color=58A6FF)](https://github.com/bybardia)
 
 </div>
 
